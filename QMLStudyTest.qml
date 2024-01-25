@@ -12,7 +12,7 @@ Window {
         height: 100
         x: 0
         y: 100
-
+        //第二次dev分支测试
         color: "red"
         Component.onCompleted: console.log("加载完成")
 
